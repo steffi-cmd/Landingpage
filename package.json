@@ -1,0 +1,9 @@
+{
+  "name": "stefanie-landingpage",
+  "version": "1.0.0",
+  "description": "Landingpage für Dr. Stefanie Schinnerl",
+  "scripts": {
+    "start": "open http://localhost:8080 && python3 -m http.server 8080",
+    "dev": "open http://localhost:8080 && python3 -m http.server 8080"
+  }
+}
